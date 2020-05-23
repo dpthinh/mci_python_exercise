@@ -1,7 +1,7 @@
 # mci_python_exercise
 This repo contains the source codes for Python exercises 01, 02, and 03.
 
-Problem 1, a simple user-defined function is required. I show the source code for this function in file mce_ex01.py
+Problem 1, a simple user-defined function is required. I show the source code for this function in file mci_ex01.py
 
 Problem 2, requires to calculate the winning probablity of a game.
 To solve this problem, I try to simulate this game by Python (see my code in mci_ex02.py for details).
